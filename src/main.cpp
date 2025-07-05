@@ -73,5 +73,5 @@ void loop() {
     Serial.printf("Response: %.2f\n", control_signal);
 
 
-    delay(500); 
+    delay(100); 
 }
